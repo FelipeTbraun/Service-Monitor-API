@@ -10,5 +10,5 @@ class ServicoOut(BaseModel):
     id:int
     nome:str
     url:str
-    intevalo_segundos: int
+    intervalo_segundos: int
     ativo:bool
